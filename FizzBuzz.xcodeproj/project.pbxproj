@@ -20,6 +20,7 @@
 		022D5F0B243A3FBB00ED8C2A /* ViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022D5F0A243A3FBB00ED8C2A /* ViewControllerTests.swift */; };
 		022D5F10243A657D00ED8C2A /* ViewControllerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022D5F0F243A657D00ED8C2A /* ViewControllerUITests.swift */; };
 		022D5F12243A852F00ED8C2A /* Move.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022D5F11243A852F00ED8C2A /* Move.swift */; };
+		02E25BD3243A9AB2004552A1 /* Capture d’écran 2020-04-06 à 00.52.51.png in Resources */ = {isa = PBXBuildFile; fileRef = 02E25BD2243A9AB2004552A1 /* Capture d’écran 2020-04-06 à 00.52.51.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		022D5F0A243A3FBB00ED8C2A /* ViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTests.swift; sourceTree = "<group>"; };
 		022D5F0F243A657D00ED8C2A /* ViewControllerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerUITests.swift; sourceTree = "<group>"; };
 		022D5F11243A852F00ED8C2A /* Move.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Move.swift; sourceTree = "<group>"; };
+		02E25BD2243A9AB2004552A1 /* Capture d’écran 2020-04-06 à 00.52.51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Capture d’écran 2020-04-06 à 00.52.51.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				022D5EE8243A01F200ED8C2A /* FizzBuzzTests */,
 				022D5EF3243A01F200ED8C2A /* FizzBuzzUITests */,
 				022D5ED0243A01F000ED8C2A /* Products */,
+				02E25BD2243A9AB2004552A1 /* Capture d’écran 2020-04-06 à 00.52.51.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -252,6 +255,7 @@
 				022D5EDF243A01F200ED8C2A /* LaunchScreen.storyboard in Resources */,
 				022D5EDC243A01F200ED8C2A /* Assets.xcassets in Resources */,
 				022D5EDA243A01F000ED8C2A /* Main.storyboard in Resources */,
+				02E25BD3243A9AB2004552A1 /* Capture d’écran 2020-04-06 à 00.52.51.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
